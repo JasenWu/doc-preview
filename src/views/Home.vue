@@ -85,7 +85,8 @@ export default {
   a{
     display: block;
     padding: 10px;
-    
+    border-bottom:1px solid #ccc;
+    cursor: pointer;
   }
 }
 </style>
