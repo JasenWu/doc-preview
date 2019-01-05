@@ -4,6 +4,7 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
+    <p style="color:red;">点击下面文件名预览，目前支持['doc', 'docx', 'xls', 'xlsx', 'pdf', 'png', 'jpg', 'jpeg', 'gif']的文件</p>
     <router-view/>
   </div>
 </template>
