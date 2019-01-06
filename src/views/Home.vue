@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-
+ 
     <a
       v-for="(v1,k1) of attachments"
       :key="k1"
