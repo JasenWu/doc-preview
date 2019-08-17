@@ -21,7 +21,7 @@ export default {
         {
           name: "12",
           url:
-            "http://test.oa.innotechx.com/api//upload/201901/未命名_20190104080109134.doc",
+            "http://test.com/api//upload/201901/未命名_20190104080109134.doc",
           status: "done",
           id: 16063,
           size: 28672
@@ -29,7 +29,7 @@ export default {
         {
           name: "5",
           url:
-            "http://test.oa.innotechx.com/api//upload/201901/5_20190104080109153.jpg",
+            "http://test.com/api//upload/201901/5_20190104080109153.jpg",
           status: "done",
           id: 16064,
           size: 56944
@@ -37,7 +37,7 @@ export default {
         {
           name: "1",
           url:
-            "http://test.oa.innotechx.com/api//upload/201901/1_20190104080109279.jpg",
+            "http://test.com/api//upload/201901/1_20190104080109279.jpg",
           status: "done",
           id: 16065,
           size: 72375
@@ -45,7 +45,7 @@ export default {
         {
           name: "excel",
           url:
-            "http://test.oa.innotechx.com/api//upload/201901/excel_2019010408010951.xlsx",
+            "http://test.com/api//upload/201901/excel_2019010408010951.xlsx",
           status: "done",
           id: 16066,
           size: 47383
@@ -53,7 +53,7 @@ export default {
         {
           name: "未命名",
           url:
-            "http://test.oa.innotechx.com/api//upload/201901/未命名_20190104080109558.docx",
+            "http://test.com/api//upload/201901/未命名_20190104080109558.docx",
           status: "done",
           id: 16067,
           size: 9887
@@ -61,7 +61,7 @@ export default {
         {
           name: "pdf",
           url:
-            "http://test.oa.innotechx.com/api//upload/201901/pdf_20190104080109633.pdf",
+            "http://test.com/api//upload/201901/pdf_20190104080109633.pdf",
           status: "done",
           id: 16068,
           size: 25051
